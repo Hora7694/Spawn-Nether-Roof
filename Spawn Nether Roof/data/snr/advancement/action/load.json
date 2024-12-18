@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "location": {
+      "trigger": "location",
+      "conditions": {
+        "player": {
+          "location": {
+            "dimension": "minecraft:overworld"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "snr:load"
+  }
+}

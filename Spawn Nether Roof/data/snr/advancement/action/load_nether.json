@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "location": {
+      "trigger": "location",
+      "conditions": {
+        "player": {
+          "location": {
+            "dimension": "minecraft:the_nether"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "snr:load_nether"
+  }
+}
